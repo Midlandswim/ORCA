@@ -20,3 +20,6 @@ Cicruict divider for battery (Battery Life)
 
 
 Should be about the size of a quarter, will prob go a bit bigger
+
+
+inspired by https://www.youtube.com/watch?v=5TTcbMv5tDc&t=103s 
