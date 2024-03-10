@@ -1,7 +1,7 @@
 # O.R.C.A
 Optimized Rocketry Computer Assembly
 
-Note: This is in partnership with Dhalwani Designs, which holds all rights, data, and procedures for this project and the related. <br />
+This is in partnership with Dhalwani Designs, which holds all rights, data, and procedures for this project and the related. <br />
 
 Researcher: Wilson Dhalwani <br />
 Aides: Victor Samarkone (BCA) & Mr. Michael Liva (BCA) & Mr. Joseph Barbetta (BCA) <br />
