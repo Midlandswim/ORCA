@@ -4,7 +4,7 @@ Optimized Rocketry Computer Assembly
 This is in partnership with Dhalwani Designs, which holds all rights, data, and procedures for this project and the related. <br />
 
 Researcher: Wilson Dhalwani <br />
-Aides: Victor Samarkone (BCA) & Mr. Michael Liva (BCA) & Mr. Joseph Barbetta (BCA) <br />
+Aides: Mr. Michael Liva (BCA) & Mr. Joseph Barbetta (BCA) & Mr. Vladyslav Kharechko (BCA) <br />
 Context: Dhalwani Designs Sanctioned Project, Senior Capstone, and Electrical Engineering Research Project <br />
 Project Name: The Optimized Rocketry Computer Assembly <br />
 Start Date: June 06, 2023 <br /> 
